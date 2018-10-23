@@ -1,0 +1,2 @@
+Set WshShell = CreateObject("WScript.Shell")
+WshShell.Run "javaw -Dfile.encoding=UTF-8 --add-modules java.activation -classpath ..\Librairie\json-simple-1.1.jar;..\Librairie\javax.mail.jar;.\bin;..\Librairie\jasypt-1.9.2.jar;..\Librairie\jfxrt.jar;..\Librairie\mysql-connector-java-5.1.46.jar Plateforme.Application.RunDuelSurLaToile"

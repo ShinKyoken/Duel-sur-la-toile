@@ -1,0 +1,17 @@
+config.properties
+*.class
+.directory
+
+# Eclipse
+/.metadata/
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+.idea/
+Code/.idea/
+/.recommenders/

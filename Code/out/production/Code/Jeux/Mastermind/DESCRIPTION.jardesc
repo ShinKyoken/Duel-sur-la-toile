@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/erwan/mastermind.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Code/src/Jeux/Mastermind/DESCRIPTION.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=Code/src&lt;Jeux.Mastermind{VueMastermind.java[VueMastermind" manifestLocation="/Code/src/Jeux/Mastermind/MANIFEST" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal>
+                <package handleIdentifier="=Code/src&lt;Jeux.Mastermind"/>
+            </packagesToUnSeal>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=Code/src&lt;Jeux.Mastermind"/>
+        <file path="/Code/.classpath"/>
+    </selectedElements>
+</jardesc>
